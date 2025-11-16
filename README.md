@@ -27,9 +27,7 @@ This agent's architecture and code are designed to satisfy the "Category 2: The 
 ### 🏛️ Architecture
 
 The agent's workflow is centered around a "pause and resume" logic. The full process flow and system architecture are visualized below:
-
-[Untitled](https://github.com/user-attachments/assets/30b7c456-b84c-4da6-90c1-d02f85bdedb8)
-
+![Untitled](https://github.com/user-attachments/assets/d9787e2b-6ed6-4ddd-9690-f55031fa45de)
 
 ### 🔑 Key Concepts Used
 
