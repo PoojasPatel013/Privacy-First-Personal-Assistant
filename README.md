@@ -7,9 +7,8 @@
 
 ---
 
-## 📺 Project Video (Bonus Points)
-
-*[Link to your 3-minute YouTube video demo goes here]*
+## 📺 Project Video 
+//upcoming
 
 ## 1. 🎯 The Pitch (Problem, Solution, Value)
 
@@ -29,9 +28,8 @@ This agent's architecture and code are designed to satisfy the "Category 2: The 
 
 The agent's workflow is centered around a "pause and resume" logic. The full process flow and system architecture are visualized below:
 
-*(Insert your `Untitled.jpg` diagram here. In GitHub, you can drag and drop the image into this file.)*![Untitled](https://github.com/user-attachments/assets/30b7c456-b84c-4da6-90c1-d02f85bdedb8)
+[Untitled](https://github.com/user-attachments/assets/30b7c456-b84c-4da6-90c1-d02f85bdedb8)
 
-![Agent Architecture Diagram](Untitled.jpg)
 
 ### 🔑 Key Concepts Used
 
@@ -53,9 +51,10 @@ This project implements **three core concepts** from the course notebooks:
 ## 3. 💻 Technology Stack
 
 * **Google Agent Development Kit (ADK)**
-* **Google Gemini API** (gemini-2.5-flash-lite)
+* **Google Gemini API** (gemini-2.5-flash)
 * **Python 3** & `asyncio`
 * **Google Colab** (for development and demonstration)
+* **Google Cloud Run** (for deployment using Docker)
 
 ## 4. ⚙️ Setup & Usage
 
