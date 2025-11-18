@@ -43,7 +43,7 @@ This project implements **three core concepts** from the course notebooks:
 
 ### ✨ Bonus Concepts Used
 
-* **Effective Use of Gemini:** The agent's reasoning is powered by `Gemini(model="gemini-2.5-flash-lite")`, satisfying the bonus criteria.
+* **Effective Use of Gemini:** The agent's reasoning is powered by `Gemini(model="gemini-2.5-flash")`, satisfying the bonus criteria.
 * **Custom Tools:** The entire project is orchestrated by a custom `FunctionTool` (`process_user_fact`) that handles the complex LRO and memory logic.
 
 ## 3. 💻 Technology Stack
@@ -52,7 +52,7 @@ This project implements **three core concepts** from the course notebooks:
 * **Google Gemini API** (gemini-2.5-flash)
 * **Python 3** & `asyncio`
 * **Google Colab** (for development and demonstration)
-* **Google Cloud Run** (for deployment using Docker)
+* **Deployment:** Agent Engine (ADK) on Google Cloud (Vertex AI)
 
 ## 4. ⚙️ Setup & Usage
 
