@@ -1,7 +1,8 @@
 # 🚀 Privacy-First Personal Assistant
 
-**Track:** Concierge Agents
-**Subtitle:** A Capstone Project for the Kaggle 5-Day AI Agents Intensive Course. This agent protects user privacy by asking for explicit permission before saving any long-term memories.
+* **Track:** Concierge Agents.
+
+* **Subtitle:** A Capstone Project for the Kaggle 5-Day AI Agents Intensive Course. This agent protects user privacy by asking for explicit permission before saving any long-term memories.
 
 [![Kaggle 5-Day AI Agents Course](https://img.shields.io/badge/Kaggle-5--Day%20AI%20Agents%20Course-blue)](https://www.kaggle.com/competitions/ai-agents-capstone-project-nov-2025)
 
