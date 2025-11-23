@@ -28,7 +28,7 @@ This agent's architecture and code are designed to satisfy the "Category 2: The 
 ### 🏛️ Architecture
 
 The agent's workflow is centered around a "pause and resume" logic. The full process flow and system architecture are visualized below:
-![Untitled](https://github.com/user-attachments/assets/d9787e2b-6ed6-4ddd-9690-f55031fa45de)
+![privacy-first-agent](https://github.com/user-attachments/assets/93f27594-ed34-43a3-b769-89c6a23472b6)
 
 ### 🔑 Key Concepts Used
 
