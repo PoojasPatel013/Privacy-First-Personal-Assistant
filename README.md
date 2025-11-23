@@ -9,7 +9,7 @@
 ---
 
 ## 📺 Project Video 
-//upcoming
+[Youtube Video](https://www.youtube.com/watch?v=nZ5l93vzeL8)
 
 ## 1. 🎯 The Pitch (Problem, Solution, Value)
 
